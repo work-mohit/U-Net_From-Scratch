@@ -6,3 +6,6 @@ U-Net is an architecture for semantic segmentation. It consists of a contracting
 
 In this repo , I have implemented the UNet Architecture from the scratch with the help of tensorflow. Above description is taken form Papers with code website. You can find the research paper link <a href='https://arxiv.org/abs/1505.04597'>here.</a>
 
+
+<img src='https://paperswithcode.com/media/methods/Screen_Shot_2020-07-07_at_9.08.00_PM_rpNArED.png'>
+
